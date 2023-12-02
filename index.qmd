@@ -1,5 +1,5 @@
 ---
-title: "UP 592: Doctoral Urban Planning Seminar Fall 2023"
+title: "UP 592: Doctoral Urban Planning Seminar Fall 2024"
 format: html
 toc: false
 sidebar: false
