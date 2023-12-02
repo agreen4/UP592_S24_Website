@@ -1,0 +1,77 @@
+project:
+  type: website
+  render: 
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+  
+website:
+  title: "Doctoral Urban Planning Seminar"
+  navbar:
+    left:
+      - href: index.qmd
+        text: "Home"
+      - href: syllabus/syllabus.qmd
+        text: "Seminar Information"
+      - href: schedule/schedule.qmd
+        text: "Schedule"
+    search: true
+  favicon: favicon.png
+  page-footer:
+    left: "Content {{< fa regular copyright >}} Andrew J. Greenlee"
+    right: "Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) </br> Website Code on [Github {{< fa brands github >}}]({{< var course.github >}})"
+
+  sidebar:
+    - title: "Schedule"
+      style: "docked"
+      contents:
+        - section: "Writing Your First Article"
+          contents:
+        - section: "Writing For Funding"
+          contents:
+            - text: "Schedule Overview"
+              file: schedule/schedule.qmd
+            - text: "Week 1: Welcome and Introduction"
+              file: schedule/01_introduction.qmd
+            - text: "Week 2: Identifying Funding Opportunities"
+              file: schedule/02_funding.qmd
+            - text: "Week 3: DSUP - TBD"
+              file: schedule/03_TBD.qmd              
+            - text: "Week 4: Scoping Your Response"
+              file: schedule/04_scoping.qmd
+            - text: "Week 5: DSUP - TBD"
+              file: schedule/05_TBD.qmd
+            - text: "Week 6: Writing Your Abstract"
+              file: schedule/06_abstract.qmd
+            - text: "Week 7: DSUP - TBD"
+              file: schedule/07_TBD.qmd
+            - text: "Week 8: Designing Methods and Evaluation"
+              file: schedule/08_methods.qmd
+            - text: "Week 9: Spring Break"
+            - text: "Week 10: Developing a Budget"
+              file: schedule/10_budget.qmd
+            - text: "Week 11: DSUP - TBD"
+              file: schedule/11_TBD.qmd
+            - text: "Week 12: Broader Impacts"
+              file: schedule/12_broaderimpacts.qmd
+            - text: "Week 13: Conference Presentation Practice"
+              file: schedule/13_presentation.qmd
+            - text: "Week 14: No Seminar - UAA Conference"
+            - text: "Week 15: Wrap-Up and Goal Setting"
+              file: schedule/15_wrapup.qmd
+        - section: "Writing Your Dissertation Proposal"
+          contents:
+        - section: "Developing Your Academic Brand"
+          contents:
+format:
+  html:
+    theme:
+      light: [flatly, custom.scss]
+      dark: darkly
+    css: 
+      - styles.css
+    toc: true
+
+editor: source
+

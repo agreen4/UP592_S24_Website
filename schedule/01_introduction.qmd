@@ -1,0 +1,18 @@
+---
+title: "Seminar Introduction"
+format: html
+toc: true
+editor: source
+---
+## Session Overview
+
+Welcome to the Doctoral Urban Planning Seminar! During our introductory session, we'll spend some time discussing our shared agenda for the semester. We will also discuss your individual goals and things you'd like to accomplish during the seminar.
+
+## Before we Meet
+
+- Please familiarize yourself with this website including the [seminar information](../syllabus/syllabus.qmd) section and [schedule](schedule.qmd).
+- Come with ideas for what we might accomplish during our "TBD" sessions.
+
+## After we Meet
+
+## Additional Resources

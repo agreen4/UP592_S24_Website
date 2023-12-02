@@ -1,0 +1,28 @@
+---
+title: "Schedule"
+format: html
+toc: true
+editor: source
+---
+
+This page outlines our seminar schedule, with links to session overviews and descriptions. Sessions listed as "TBD" will be discussed during our initial meeting at the beginning of the semester - seminar participants will collaboratively determine what content will fill these sessions. Sessions listed with a {{< fa graduation-cap >}} are part of the semester's workshop within a seminar series.
+
+Please check this page often - session information will be updated frequently throughout the semester.
+
+| Week    | Date       | Session Description                                                       |
+|---------------|---------------|------------------------------------------|
+| Week 1  | 1/17/2024  | [Welcome and Introduction](01_introduction.qmd)                           |
+| Week 2  | 1/24/2024  | {{< fa graduation-cap >}} [Identifying Funding Opportunities](02_funding.qmd) |
+| Week 3  | 1/31/2024   | [DSUP - TBD](03_TBD.qmd)                                                         |
+| Week 4  | 2/7/2024  | {{< fa graduation-cap >}} [Scoping Your Response](04_scoping.qmd)         |
+| Week 5  | 2/14/2024  | [DSUP - TBD](05_TBD.qmd)                   |
+| Week 6  | 2/21/2024  | {{< fa graduation-cap >}} [Writing Your Abstract](06_abstract.qmd)      |
+| Week 7  | 2/28/2024  | [DSUP - TBD](07_TBD.qmd)           |
+| Week 8  | 3/6/2024 | {{< fa graduation-cap >}} [Designing Methods and Evaluation](08_methods.qmd)                          |
+| Week 9  | 3/13/2024 | Spring Break                     |
+| Week 10 | 3/27/2024 |{{< fa graduation-cap >}} [Developing a Budget](10_budget.qmd)                                                         |
+| Week 11 | 4/3/2024  | [DSUP - TBD](11_TBD.qmd)    |
+| Week 12 | 4/10/2024  | {{< fa graduation-cap >}} [Broader Impacts](12_broaderimpacts.qmd)                                                         |
+| Week 13 | 4/17/2024 | [Conference Presentation Practice](13_presentation.qmd) |
+| Week 14 | 4/24/2024 | No Seminar - UAA Conference                                  |
+| Week 15 | 5/1/2024 | {{< fa graduation-cap >}} [Wrap-Up and Goal Setting](15_wrapup.qmd)    |

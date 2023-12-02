@@ -1,0 +1,31 @@
+author: Andrew J. Greenlee
+
+instructor:
+  name: Dr. Andrew J. Greenlee
+  email: agreen4@illinois.edu
+  url: https://urban.illinois.edu/people/profiles/andrew-greenlee/
+  github: https://github.com/agreen4
+  twitter: urbprof
+  mastodon: https://fediscience.org/@urbprof
+  office: "M210 Temple Buell Hall"
+  calendly_url: https://calendly.com/agreen4/office-hours
+
+course:
+  number: "UP 592"
+  semester: "Spring 2024"
+  days: "Wednesdays"
+  time: "1:00 PM - 1:50 PM"
+  location: "Temple Buell Hall 111A"
+  copyright_year: "2024"
+  slack: ""
+  github: "https://github.com/agreen4/UP592_S24_Website"
+  survey: ""
+
+  
+university:
+  name: University of Illinois at Urbana-Champaign
+  url: "https://www.illinois.edu"
+
+department:
+  name: Department of Urban and Regional Planning
+  url: "https://www.urban.illinois.edu/"
