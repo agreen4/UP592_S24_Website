@@ -1,5 +1,5 @@
 ---
-title: "TBD - DSUP"
+title: "The Qualifying Exam"
 format: html
 toc: true
 editor: source

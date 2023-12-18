@@ -1,5 +1,5 @@
 ---
-title: "TBD - DSUP"
+title: "The Annotated Bibliography"
 format: html
 toc: true
 editor: source

@@ -1,5 +1,5 @@
 ---
-title: "TBD - DSUP"
+title: "Networking at Conferences"
 format: html
 toc: true
 editor: source

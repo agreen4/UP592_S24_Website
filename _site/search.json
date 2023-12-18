@@ -35,44 +35,44 @@
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/02_funding.html#before-we-meet",
-    "href": "schedule/02_funding.html#before-we-meet",
-    "title": "Identifying Funding Opportunities",
+    "objectID": "schedule/02_annotatedbib.html#before-we-meet",
+    "href": "schedule/02_annotatedbib.html#before-we-meet",
+    "title": "The Annotated Bibliography",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/02_funding.html#after-we-meet",
-    "href": "schedule/02_funding.html#after-we-meet",
-    "title": "Identifying Funding Opportunities",
+    "objectID": "schedule/02_annotatedbib.html#after-we-meet",
+    "href": "schedule/02_annotatedbib.html#after-we-meet",
+    "title": "The Annotated Bibliography",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/02_funding.html#additional-resources",
-    "href": "schedule/02_funding.html#additional-resources",
-    "title": "Identifying Funding Opportunities",
+    "objectID": "schedule/02_annotatedbib.html#additional-resources",
+    "href": "schedule/02_annotatedbib.html#additional-resources",
+    "title": "The Annotated Bibliography",
     "section": "Additional Resources",
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/03_TBD.html#before-we-meet",
-    "href": "schedule/03_TBD.html#before-we-meet",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/03_funding.html#before-we-meet",
+    "href": "schedule/03_funding.html#before-we-meet",
+    "title": "Identifying Funding Opportunities",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/03_TBD.html#after-we-meet",
-    "href": "schedule/03_TBD.html#after-we-meet",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/03_funding.html#after-we-meet",
+    "href": "schedule/03_funding.html#after-we-meet",
+    "title": "Identifying Funding Opportunities",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/03_TBD.html#additional-resources",
-    "href": "schedule/03_TBD.html#additional-resources",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/03_funding.html#additional-resources",
+    "href": "schedule/03_funding.html#additional-resources",
+    "title": "Identifying Funding Opportunities",
     "section": "Additional Resources",
     "text": "Additional Resources"
   },
@@ -98,23 +98,23 @@
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/05_TBD.html#before-we-meet",
-    "href": "schedule/05_TBD.html#before-we-meet",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/05_internships.html#before-we-meet",
+    "href": "schedule/05_internships.html#before-we-meet",
+    "title": "Internships and Paraprofessional Work Experience",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/05_TBD.html#after-we-meet",
-    "href": "schedule/05_TBD.html#after-we-meet",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/05_internships.html#after-we-meet",
+    "href": "schedule/05_internships.html#after-we-meet",
+    "title": "Internships and Paraprofessional Work Experience",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/05_TBD.html#additional-resources",
-    "href": "schedule/05_TBD.html#additional-resources",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/05_internships.html#additional-resources",
+    "href": "schedule/05_internships.html#additional-resources",
+    "title": "Internships and Paraprofessional Work Experience",
     "section": "Additional Resources",
     "text": "Additional Resources"
   },
@@ -140,23 +140,23 @@
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/07_TBD.html#before-we-meet",
-    "href": "schedule/07_TBD.html#before-we-meet",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/07_industry.html#before-we-meet",
+    "href": "schedule/07_industry.html#before-we-meet",
+    "title": "Working in Industry vs. Academia",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/07_TBD.html#after-we-meet",
-    "href": "schedule/07_TBD.html#after-we-meet",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/07_industry.html#after-we-meet",
+    "href": "schedule/07_industry.html#after-we-meet",
+    "title": "Working in Industry vs. Academia",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/07_TBD.html#additional-resources",
-    "href": "schedule/07_TBD.html#additional-resources",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/07_industry.html#additional-resources",
+    "href": "schedule/07_industry.html#additional-resources",
+    "title": "Working in Industry vs. Academia",
     "section": "Additional Resources",
     "text": "Additional Resources"
   },
@@ -182,106 +182,127 @@
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/10_budget.html#before-we-meet",
-    "href": "schedule/10_budget.html#before-we-meet",
+    "objectID": "schedule/10_qualifying.html#before-we-meet",
+    "href": "schedule/10_qualifying.html#before-we-meet",
+    "title": "The Qualifying Exam",
+    "section": "Before we Meet",
+    "text": "Before we Meet"
+  },
+  {
+    "objectID": "schedule/10_qualifying.html#after-we-meet",
+    "href": "schedule/10_qualifying.html#after-we-meet",
+    "title": "The Qualifying Exam",
+    "section": "After we Meet",
+    "text": "After we Meet"
+  },
+  {
+    "objectID": "schedule/10_qualifying.html#additional-resources",
+    "href": "schedule/10_qualifying.html#additional-resources",
+    "title": "The Qualifying Exam",
+    "section": "Additional Resources",
+    "text": "Additional Resources"
+  },
+  {
+    "objectID": "schedule/11_budget.html#before-we-meet",
+    "href": "schedule/11_budget.html#before-we-meet",
     "title": "Developing a Budget",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/10_budget.html#after-we-meet",
-    "href": "schedule/10_budget.html#after-we-meet",
+    "objectID": "schedule/11_budget.html#after-we-meet",
+    "href": "schedule/11_budget.html#after-we-meet",
     "title": "Developing a Budget",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/10_budget.html#additional-resources",
-    "href": "schedule/10_budget.html#additional-resources",
+    "objectID": "schedule/11_budget.html#additional-resources",
+    "href": "schedule/11_budget.html#additional-resources",
     "title": "Developing a Budget",
     "section": "Additional Resources",
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/11_TBD.html#before-we-meet",
-    "href": "schedule/11_TBD.html#before-we-meet",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/12_networking.html#before-we-meet",
+    "href": "schedule/12_networking.html#before-we-meet",
+    "title": "Networking at Conferences",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/11_TBD.html#after-we-meet",
-    "href": "schedule/11_TBD.html#after-we-meet",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/12_networking.html#after-we-meet",
+    "href": "schedule/12_networking.html#after-we-meet",
+    "title": "Networking at Conferences",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/11_TBD.html#additional-resources",
-    "href": "schedule/11_TBD.html#additional-resources",
-    "title": "TBD - DSUP",
+    "objectID": "schedule/12_networking.html#additional-resources",
+    "href": "schedule/12_networking.html#additional-resources",
+    "title": "Networking at Conferences",
     "section": "Additional Resources",
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/12_broaderimpacts.html#before-we-meet",
-    "href": "schedule/12_broaderimpacts.html#before-we-meet",
+    "objectID": "schedule/13_broaderimpacts.html#before-we-meet",
+    "href": "schedule/13_broaderimpacts.html#before-we-meet",
     "title": "Broader Impacts",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/12_broaderimpacts.html#after-we-meet",
-    "href": "schedule/12_broaderimpacts.html#after-we-meet",
+    "objectID": "schedule/13_broaderimpacts.html#after-we-meet",
+    "href": "schedule/13_broaderimpacts.html#after-we-meet",
     "title": "Broader Impacts",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/12_broaderimpacts.html#additional-resources",
-    "href": "schedule/12_broaderimpacts.html#additional-resources",
+    "objectID": "schedule/13_broaderimpacts.html#additional-resources",
+    "href": "schedule/13_broaderimpacts.html#additional-resources",
     "title": "Broader Impacts",
     "section": "Additional Resources",
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/13_presentation.html#before-we-meet",
-    "href": "schedule/13_presentation.html#before-we-meet",
+    "objectID": "schedule/14_presentation.html#before-we-meet",
+    "href": "schedule/14_presentation.html#before-we-meet",
     "title": "Conference Presentation Practice",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/13_presentation.html#after-we-meet",
-    "href": "schedule/13_presentation.html#after-we-meet",
+    "objectID": "schedule/14_presentation.html#after-we-meet",
+    "href": "schedule/14_presentation.html#after-we-meet",
     "title": "Conference Presentation Practice",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/13_presentation.html#additional-resources",
-    "href": "schedule/13_presentation.html#additional-resources",
+    "objectID": "schedule/14_presentation.html#additional-resources",
+    "href": "schedule/14_presentation.html#additional-resources",
     "title": "Conference Presentation Practice",
     "section": "Additional Resources",
     "text": "Additional Resources"
   },
   {
-    "objectID": "schedule/15_wrapup.html#before-we-meet",
-    "href": "schedule/15_wrapup.html#before-we-meet",
+    "objectID": "schedule/16_wrapup.html#before-we-meet",
+    "href": "schedule/16_wrapup.html#before-we-meet",
     "title": "Wrap-Up and Goal Setting",
     "section": "Before we Meet",
     "text": "Before we Meet"
   },
   {
-    "objectID": "schedule/15_wrapup.html#after-we-meet",
-    "href": "schedule/15_wrapup.html#after-we-meet",
+    "objectID": "schedule/16_wrapup.html#after-we-meet",
+    "href": "schedule/16_wrapup.html#after-we-meet",
     "title": "Wrap-Up and Goal Setting",
     "section": "After we Meet",
     "text": "After we Meet"
   },
   {
-    "objectID": "schedule/15_wrapup.html#additional-resources",
-    "href": "schedule/15_wrapup.html#additional-resources",
+    "objectID": "schedule/16_wrapup.html#additional-resources",
+    "href": "schedule/16_wrapup.html#additional-resources",
     "title": "Wrap-Up and Goal Setting",
     "section": "Additional Resources",
     "text": "Additional Resources"
@@ -312,7 +333,7 @@
     "href": "schedule/schedule.html",
     "title": "Schedule",
     "section": "",
-    "text": "This page outlines our seminar schedule, with links to session overviews and descriptions. Sessions listed as “TBD” will be discussed during our initial meeting at the beginning of the semester - seminar participants will collaboratively determine what content will fill these sessions. Sessions listed with a  are part of the semester’s workshop within a seminar series.\nPlease check this page often - session information will be updated frequently throughout the semester.\n\n\n\nWeek\nDate\nSession Description\n\n\n\n\nWeek 1\n1/17/2024\nWelcome and Introduction\n\n\nWeek 2\n1/24/2024\n Identifying Funding Opportunities\n\n\nWeek 3\n1/31/2024\nDSUP - TBD\n\n\nWeek 4\n2/7/2024\n Scoping Your Response\n\n\nWeek 5\n2/14/2024\nDSUP - TBD\n\n\nWeek 6\n2/21/2024\n Writing Your Abstract\n\n\nWeek 7\n2/28/2024\nDSUP - TBD\n\n\nWeek 8\n3/6/2024\n Designing Methods and Evaluation\n\n\nWeek 9\n3/13/2024\nSpring Break\n\n\nWeek 10\n3/27/2024\n Developing a Budget\n\n\nWeek 11\n4/3/2024\nDSUP - TBD\n\n\nWeek 12\n4/10/2024\n Broader Impacts\n\n\nWeek 13\n4/17/2024\nConference Presentation Practice\n\n\nWeek 14\n4/24/2024\nNo Seminar - UAA Conference\n\n\nWeek 15\n5/1/2024\n Wrap-Up and Goal Setting"
+    "text": "This page outlines our seminar schedule, with links to session overviews and descriptions. Sessions listed as “TBD” will be discussed during our initial meeting at the beginning of the semester - seminar participants will collaboratively determine what content will fill these sessions. Sessions listed with a  are part of the semester’s workshop within a seminar series.\nPlease check this page often - session information will be updated frequently throughout the semester.\n\n\n\nWeek\nDate\nSession Description\n\n\n\n\nWeek 1\n1/17/2024\nWelcome and Introduction\n\n\nWeek 2\n1/24/2024\nThe Annotated Bibliography\n\n\nWeek 3\n1/31/2024\n Identifying Funding Opportunities\n\n\nWeek 4\n2/7/2024\n Scoping Your Response\n\n\nWeek 5\n2/14/2024\nInternships and Paraprofessional Work Experience\n\n\nWeek 6\n2/21/2024\n Writing Your Abstract\n\n\nWeek 7\n2/28/2024\nWorking in Industry vs. Academia\n\n\nWeek 8\n3/6/2024\n Designing Methods and Evaluation\n\n\nWeek 9\n3/13/2024\nSpring Break\n\n\nWeek 10\n3/20/2024\nThe Qualifying Exam\n\n\nWeek 11\n3/27/2024\n Developing a Budget\n\n\nWeek 12\n4/3/2024\nNetworking at Conferences\n\n\nWeek 13\n4/10/2024\n Broader Impacts\n\n\nWeek 14\n4/17/2024\nConference Presentation Practice\n\n\nWeek 15\n4/24/2024\nNo Seminar - UAA Conference\n\n\nWeek 16\n5/1/2024\n Wrap-Up and Goal Setting"
   },
   {
     "objectID": "syllabus/syllabus.html",

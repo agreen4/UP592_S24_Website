@@ -34,32 +34,34 @@ website:
               file: schedule/schedule.qmd
             - text: "Week 1: Welcome and Introduction"
               file: schedule/01_introduction.qmd
-            - text: "Week 2: Identifying Funding Opportunities"
-              file: schedule/02_funding.qmd
-            - text: "Week 3: DSUP - TBD"
-              file: schedule/03_TBD.qmd              
+            - text: "Week 2: The Annotated Bibliography"
+              file: schedule/02_annotatedbib.qmd
+            - text: "Week 3: Identifying Funding Opportunities"
+              file: schedule/03_funding.qmd              
             - text: "Week 4: Scoping Your Response"
               file: schedule/04_scoping.qmd
-            - text: "Week 5: DSUP - TBD"
-              file: schedule/05_TBD.qmd
+            - text: "Week 5: Internships and Paraprofessional Work Experience"
+              file: schedule/05_internships.qmd
             - text: "Week 6: Writing Your Abstract"
               file: schedule/06_abstract.qmd
-            - text: "Week 7: DSUP - TBD"
-              file: schedule/07_TBD.qmd
+            - text: "Week 7: Working in Industry vs. Academia"
+              file: schedule/07_industry.qmd
             - text: "Week 8: Designing Methods and Evaluation"
               file: schedule/08_methods.qmd
             - text: "Week 9: Spring Break"
-            - text: "Week 10: Developing a Budget"
-              file: schedule/10_budget.qmd
-            - text: "Week 11: DSUP - TBD"
-              file: schedule/11_TBD.qmd
-            - text: "Week 12: Broader Impacts"
-              file: schedule/12_broaderimpacts.qmd
-            - text: "Week 13: Conference Presentation Practice"
-              file: schedule/13_presentation.qmd
-            - text: "Week 14: No Seminar - UAA Conference"
-            - text: "Week 15: Wrap-Up and Goal Setting"
-              file: schedule/15_wrapup.qmd
+            - text: "Week 10: The Qualifying Exam"
+              file: schedule/10_qualifying.qmd
+            - text: "Week 11: Developing a Budget"
+              file: schedule/11_budget.qmd
+            - text: "Week 12: Networking at Conferences"
+              file: schedule/12_networking.qmd
+            - text: "Week 13: Broader Impacts"
+              file: schedule/13_broaderimpacts.qmd
+            - text: "Week 14: Conference Presentation Practice"
+              file: schedule/14_presentation.qmd
+            - text: "Week 15: No Seminar - UAA Conference"
+            - text: "Week 16: Wrap-Up and Goal Setting"
+              file: schedule/16_wrapup.qmd
         - section: "Writing Your Dissertation Proposal"
           contents:
         - section: "Developing Your Academic Brand"
