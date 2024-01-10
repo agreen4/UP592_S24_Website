@@ -1,0 +1,65 @@
+---
+title: "UP 592: Ph.D Seminar"
+subtitle: "Week 1: Writing for Funding"
+format: 
+  revealjs:
+    theme: default
+    chalkboard: true
+    smaller: true
+    scrollable: false
+    incremental: true
+    preview-links: true
+    footer: <https://up592s24.netlify.app>
+---
+
+## Welcome (Back)!
+
+## Locating Ourselves
+
+![](images/workshop_sequence.png)
+
+## Goals for the Semester
+
+We will follow the same general format as last semester - a mix of DSUP-initiated sessions and facilitated workshop-within-a-seminar sessions focused on writing for funding.
+
+-   Identify appropriate funding opportunities
+-   Develop a response based upon funding parameters
+-   Manage proposals after disposition
+-   Communicate impact to multiple audiences
+
+## Expectations
+
+-   Full engagement
+-   Submit work on time
+
+## Schedule {.center}
+
+::: columns
+::: {.column width="50%"}
+| Week   | Session Description                              |
+|--------|--------------------------------------------------|
+| Week 1 | Welcome and Introduction                         |
+| Week 2 | The Annotated Bibliography                       |
+| Week 3 | Identifying Funding Opportunities                |
+| Week 4 | Scoping Your Response                            |
+| Week 5 | Internships and Paraprofessional Work Experience |
+| Week 6 | Writing Your Abstract                            |
+| Week 7 | Working in Industry vs. Academia                 |
+| Week 8 | Designing Methods and Evaluation                 |
+:::
+
+::: {.column width="50%"}
+| Week    | Session Description              |
+|---------|----------------------------------|
+| Week 9  | Spring Break                     |
+| Week 10 | The Qualifying Exam              |
+| Week 11 | Developing a Budget              |
+| Week 12 | Networking at Conferences        |
+| Week 13 | Broader Impacts                  |
+| Week 14 | Conference Presentation Practice |
+| Week 15 | No Seminar - UAA Conference      |
+| Week 16 | Wrap-Up and Goal Setting         |
+:::
+:::
+
+## Questions
