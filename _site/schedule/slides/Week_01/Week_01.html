@@ -356,6 +356,7 @@
 <ul>
 <li class="fragment">Full engagement</li>
 <li class="fragment">Submit work on time</li>
+<li class="fragment">Continue to build mutual support around each others’ work</li>
 </ul>
 </section>
 <section id="schedule" class="slide level2 center">
@@ -450,6 +451,20 @@
 </div>
 </div>
 </section>
+<section id="why-seek-funding" class="slide level2">
+<h2>Why Seek Funding?</h2>
+<p>There’s a lot of reasons we might seek funding. Why seek it?</p>
+</section>
+<section id="whats-your-but-for-effect" class="slide level2">
+<h2>What’s Your “But For” Effect?</h2>
+<p>Regardless of why you seek funding, you will have to substantiate what the <em>but for</em> effect of the funding is.</p>
+<p>While this will differ based upon your specific proposal, what are some arguments you might make around what funding will help you do that you could not otherwise accomplish?</p>
+</section>
+<section id="how-will-we-move-forward" class="slide level2">
+<h2>How Will We Move Forward?</h2>
+<p>In our next workshop in a seminar session, we’ll discuss strategies for identifying funding opportunities.</p>
+<p>You have already identified two opportunities you’d like to explore. How did you find them?</p>
+</section>
 <section id="questions" class="slide level2">
 <h2>Questions</h2>
 
@@ -469,8 +484,6 @@
   <script src="../../../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
   <script src="../../../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
   <script src="../../../site_libs/revealjs/plugin/reveal-chalkboard/plugin.js"></script>
-  <script src="../../../site_libs/revealjs/plugin/multiplex/socket.io.js"></script>
-  <script src="../../../site_libs/revealjs/plugin/multiplex/multiplex.js"></script>
   <script src="../../../site_libs/revealjs/plugin/quarto-support/support.js"></script>
   
 
@@ -494,7 +507,6 @@
 'autoAnimateUnmatched': true,
 'menu': {"side":"left","useTextContentForMissingTitles":true,"markers":false,"loadIcons":false,"custom":[{"title":"Tools","icon":"<i class=\"fas fa-gear\"></i>","content":"<ul class=\"slide-menu-items\">\n<li class=\"slide-tool-item active\" data-item=\"0\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.fullscreen(event)\"><kbd>f</kbd> Fullscreen</a></li>\n<li class=\"slide-tool-item\" data-item=\"1\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.speakerMode(event)\"><kbd>s</kbd> Speaker View</a></li>\n<li class=\"slide-tool-item\" data-item=\"2\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.overview(event)\"><kbd>o</kbd> Slide Overview</a></li>\n<li class=\"slide-tool-item\" data-item=\"3\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.togglePdfExport(event)\"><kbd>e</kbd> PDF Export Mode</a></li>\n<li class=\"slide-tool-item\" data-item=\"4\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleChalkboard(event)\"><kbd>b</kbd> Toggle Chalkboard</a></li>\n<li class=\"slide-tool-item\" data-item=\"5\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.toggleNotesCanvas(event)\"><kbd>c</kbd> Toggle Notes Canvas</a></li>\n<li class=\"slide-tool-item\" data-item=\"6\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.downloadDrawings(event)\"><kbd>d</kbd> Download Drawings</a></li>\n<li class=\"slide-tool-item\" data-item=\"7\"><a href=\"#\" onclick=\"RevealMenuToolHandlers.keyboardHelp(event)\"><kbd>?</kbd> Keyboard Help</a></li>\n</ul>"}],"openButton":true},
 'chalkboard': {"buttons":true},
-'multiplex': {"secret":null,"id":"e9a991b248f2681a","url":"https://reveal-multiplex.glitch.me/"},
 'smaller': true,
  
         // Display controls in the bottom right corner
@@ -515,7 +527,7 @@
         progress: true,
 
         // Display the page number of the current slide
-        slideNumber: false,
+        slideNumber: 'c/t',
 
         // 'all', 'print', or 'speaker'
         showSlideNumber: 'all',
@@ -668,7 +680,7 @@
         plugins: [QuartoLineHighlight, PdfExport, RevealMenu, RevealChalkboard, QuartoSupport,
 
           RevealMath,
-          
+          RevealNotes,
           RevealSearch,
           RevealZoom
         ]
