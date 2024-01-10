@@ -10,7 +10,7 @@ format:
     scrollable: false
     incremental: true
     preview-links: true
-    output-ext: ".html"
+    multiplex: true
 ---
 
 ## Welcome (Back)!
