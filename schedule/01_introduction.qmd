@@ -18,7 +18,7 @@ Welcome to the Doctoral Urban Planning Seminar! During our introductory session,
 ## Slides
 
 ```{=html}
-<iframe class="slide-deck" src="slides/Week 01_T2/"></iframe>
+<iframe class="slide-deck" src="slides/Week 01_T2"></iframe>
 ```
 
 ## Additional Resources
