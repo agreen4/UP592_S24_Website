@@ -1,6 +1,7 @@
 ---
 title: "UP 592: Ph.D Seminar"
 subtitle: "Week 1: Writing for Funding"
+footer: up592s24.netlify.app
 format: 
   revealjs:
     theme: [default, custom.scss]
