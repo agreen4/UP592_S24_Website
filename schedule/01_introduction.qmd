@@ -11,10 +11,15 @@ Welcome to the Doctoral Urban Planning Seminar! During our introductory session,
 ## Before we Meet
 
 - Please familiarize yourself with this website including the [seminar information](../syllabus/syllabus.qmd) section and [schedule](schedule.qmd).
-- Take a few moments to reflect on what your funding goals are right now - what would funding help you do that you cannot do with the resources you have? Why should others care about funding your work?
-- Identify two funding opportunities you'd like to explore over the course of the semester. Be ready to share why you selected them.
+- Read a funding proposal - this could be a proposal submitted by a fellow student or a faculty member. Be prepared to share your reactions.
 
 ## After we Meet
+
+- Take a few moments to reflect on what your own funding goals are right now:
+    - What would funding help you do that you cannot do with the resources you have? 
+    - Why should others care about funding your work?
+
+- Identify two funding opportunities you'd like to explore over the course of the semester. Be ready to share why you selected them.
 
 ## Slides
 

@@ -6,8 +6,27 @@ editor: source
 ---
 ## Session Overview
 
+During this session, we will talk more about identifying funding opportunities. We will draw from your own experience over the past week searching for funding opportunities to reflect on the search process.
+
 ## Before we Meet
+
+- Take a few moments to reflect on what your own funding goals are right now:
+    - What would funding help you do that you cannot do with the resources you have? 
+    - Why should others care about funding your work?
+
+- Identify two funding opportunities you'd like to explore over the course of the semester. Be ready to share why you selected them.
+
+- Read Karsh and Fox Lesson 2: What is a Grant?
 
 ## After we Meet
 
+Spend some time reflecting upon the following questions:
+
+1. How much money do I need to realistically advance my project? What level of support addresses *core needs* of my project? What level of support would address both *core needs* as well as *auxiliary extensions* to the project?
+
+2. What would funding go towards? Will it fund your time? Help you engage others in research? Fund equipment? Travel? Data acquisition?
+
+3. When you were looking at potential project funders, what did you discover about the types of funders who might be in the market to fund your work? Are they Foundations? Government? Industry?
+
+4. What outcomes are you looking to demonstrate by the conclusion of your funded project? What impact will *matter* for you (personally)? For your work?
 ## Additional Resources
