@@ -5,9 +5,25 @@ toc: true
 editor: source
 ---
 ## Session Overview
+We made it to the end of the semester! It's time to reflect on and celebrate your accomplishments and to set goals for our seminar in the fall.
 
 ## Before we Meet
 
+- Read the following chapters from [*Grant Writing from the Ground Up*](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955035854905899)^[File access requires log in to University of Illinois Box.]
+  - Chapter 21: [The Revision Process](https://uofi.box.com/s/n7h23oio6arcoiqbdwlkqea0j44kgw9c)
+  - Chapter 22: [Submission](https://uofi.box.com/s/e6lt94n7q6zeeu6wb8tx97qrl8ejdwgq)
+
+- Reflect on your progress in this seminar this semester - what will your next steps be regarding your funding strategy?
+
+- Upload your draft funding proposal to Box using the following naming convention LastName_FirstName.
+
+```{=html}
+<iframe src="https://uofi.app.box.com/f/1384dc3220334494b175f71d43f14aa4" height="1000" width="900"></iframe>
+```
+
+
 ## After we Meet
+
+- Breathe.
 
 ## Additional Resources

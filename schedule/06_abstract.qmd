@@ -6,8 +6,29 @@ editor: source
 ---
 ## Session Overview
 
+It's time to start putting some of your background work and thinking down on paper. During this session, we'll take a look at your abstract - essentially an annotated outline - of preliminary thoughts related to your proposal.
+
 ## Before we Meet
 
+- Read the following chapters from [*Grant Writing from the Ground Up*](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955035854905899)^[File access requires log in to University of Illinois Box.]
+  - Chapter 9: [Building a Scaffold](https://uofi.box.com/s/6qaligos51uwxautbq0m59hlf9unsnah)
+  - Chapter 10: [Choosing Your Approach](https://uofi.box.com/s/oxhddazk80z63o8fffi6xq5qz6mz7ebf)
+  - Chapter 11: [Intermission](https://uofi.box.com/s/u9lkyhna8zjl9wjmalhsmgpbodxaq15w)
+
+- Bring answers to the following questions to class:
+  1. In one sentence, what is the problem your project will address?
+  2. In one sentence, who are the primary stakeholders for solving this problem?
+  3. In one sentence, why is the problem of critical importance to the stakeholders?
+  4. In one sentence, why is the problem of critical importance to the research sponsor?
+  5. In one sentence, how is the problem addressed today, and why is it inadequate?
+  6. In one sentance, what is your approach to solving the problem?
+  7. In one sentance, why do you think that your approach will work better than existing solutions?
+  8. In one sentence, if your project is successful, what is the impact on the stakeholders?
+  
 ## After we Meet
+
+- Identify one person with expertise *in your field* (but outside the project) with who you can discuss your method and approach.
+
+- Identify a person *outside* your field with who you can discuss you project plan and broader goals.
 
 ## Additional Resources

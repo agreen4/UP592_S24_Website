@@ -6,8 +6,29 @@ editor: source
 ---
 ## Session Overview
 
+In this session, we'll further connect your overall project plan to your proposed methods. While methods do not have to drive funding proposals, in many cases, innovation or application of certain methods oftentimes are a primary rationale for the funding ask.
+
 ## Before we Meet
 
+- Read the following chapters from [*Grant Writing from the Ground Up*](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955035854905899)^[File access requires log in to University of Illinois Box.]
+  - Chapter 12: [Defining Objectives](https://uofi.box.com/s/oouj9qw2lxbfb7ripqbjn6lksgfg55iq)
+  - Chapter 13: [What Do You Need?](https://uofi.box.com/s/pu5ey5mt5w7nxt7lmu7y33fq9rxajvbz)
+  - Chapter 14: [Creating a Project Plan](https://uofi.box.com/s/uz55j1vxrua5jxih3o9bbkej79dyr0q0)
+
+- Identify the human resources (people or particular expertise) needed for your project.
+
+- Identify any facilities or equipment you will need to utilize for the project.
+
+- Identify any information, or data (collected or uncollected) you will need to utilize for the project.
+  
 ## After we Meet
+
+- Review your project objectives and write down the tasks you may need to do complete the project.
+
+- Arrange your task list into a sequence and connect them into a network diagram.
+
+- Develop an estimate for how long it will take to complete each task. List any other dependencies (human resources, facilities or equipment, or information or data) neccesary to complete each task.
+
+- From this information, develop and refine a Gantt chart for your project.
 
 ## Additional Resources

@@ -6,8 +6,37 @@ editor: source
 ---
 ## Session Overview
 
+During this session, we'll talk more about developing a strategy for responding to the funding proposal(s) you have identified.
+
 ## Before we Meet
+
+- Read the following chapters from [*Grant Writing from the Ground Up*](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955035854905899)^[File access requires log in to University of Illinois Box.]
+  - Chapter 6: [Dissecting a Grant Solicitation](https://uofi.box.com/s/ogxc8rqduyqa1u8igzgr6284tx6qrahm)
+  - Chapter 8: [Before You Start Writing!](https://uofi.box.com/s/jecm8n8e0xuvcsnzdvnu22dhdp94e0qr)
+
+- Scan through the proposal solicitation you found and compile supplemental documents.
+
+- Do preliminary background work on the grant's sponsor
+  - Find a copy of their mission statement
+  - Find any documentation related to the organization's history
+  - Find any documentation regarding previously funded proposals (or their outcomes)
+
+- Please DO NOT contact our sponsored programs staff just yet, but compile any questions you might have for them.
 
 ## After we Meet
 
+- Develop an outline and fill in information based upon your prior work based upon the structure required for your proposal narrative. In the absence of strong guidance from your prospective sponsor, please use the following suggested structure:
+  1. Identification and Significance of the Problem
+  2. Technical Objectives
+  3. Work Plan
+  4. Related Research
+  5. Key Personnel
+  6. Facilities and Resources
+  7. Citations
+
+Upload your outline to Box using the following naming convention LastName_FirstName.
+
+```{=html}
+<iframe src="https://uofi.app.box.com/f/ad1941c580894fc7907f4ebb94038a91" height="1000" width="800"></iframe>
+```
 ## Additional Resources

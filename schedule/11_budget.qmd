@@ -4,10 +4,29 @@ format: html
 toc: true
 editor: source
 ---
+
 ## Session Overview
+
+It's time to translate your project parameters into a budget! We write grants to make funding requests, and ultimately, we need to show the funder that we can put dollar values on the resources we need, and can justify how these are both *reasonable* and *impactful*.
 
 ## Before we Meet
 
+-   Read the following chapters from [*Grant Writing from the Ground Up*](https://i-share-uiu.primo.exlibrisgroup.com/permalink/01CARLI_UIU/gpjosq/alma99955035854905899)[^1]
+    -   Chapter 15: [Costs and Justifications](https://uofi.box.com/s/7ol03tllxjey80x6k1wu2v7cj1bc71oz)
+-   Use the [UIUC SPA Budget Template](https://sponsoredprograms.illinois.edu/forms/spa-budget-template) to develop a preliminary budget for your proposal.
+    -   Pay close attention to whether your grant is subject to overhead, or whether the funder places restrictions on the amount of overhead that can be charged.
+    -   If you are planning to pay for your own time, the following information may be useful for budgeting purposes: A 9-month 50% Ph.D. assistantship for a pre-ABD student in our department (AY 24-25) includes a salary of \$24,150. Graduate tuition will at a minimum be \$14,926 for residents and \$30,910 for non-residents (useful for calculating the cost of tuition waivers). Waived fees will be approximately \$5,308 per year.
+
+[^1]: File access requires log in to University of Illinois Box.
+
 ## After we Meet
+
+-   Turn your budget justification sentences into a paragraph narrative based upon the requirements for your funding source.
+
+Upload your methods statement, Gantt chart, and budget justification to Box using the following naming convention LastName_FirstName.
+
+```{=html}
+<iframe src="https://uofi.app.box.com/f/ab6100cc212045b6955ba12dba821c56" height="1000" width="800"></iframe>
+```
 
 ## Additional Resources
