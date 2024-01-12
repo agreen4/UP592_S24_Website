@@ -11,7 +11,7 @@ Please check this page often - session information will be updated frequently th
 
 | Week    | Date      | Session Description                                                           |
 |-----------------|-----------------|---------------------------------------|
-| Week 1  | 1/17/2024 | [Welcome and Introduction](01_introduction.qmd)                               |
+| Week 1  | 1/17/2024 | {{< fa graduation-cap >}} [Welcome and Introduction](01_introduction.qmd)                               |
 | Week 2  | 1/24/2024 | [The Annotated Bibliography](02_annotatedbib.qmd)                                                    |
 | Week 3  | 1/31/2024 | {{< fa graduation-cap >}} [Identifying Funding Opportunities](03_funding.qmd) |
 | Week 4  | 2/7/2024  | {{< fa graduation-cap >}} [Scoping Your Response](04_scoping.qmd)             |
