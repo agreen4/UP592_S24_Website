@@ -6,10 +6,14 @@ editor: source
 ---
 ## Session Overview
 
-More information forthcoming from DSUP.
+This session provides DSUP students with an opportunity to explore the internship application process, aiming to familiarize students with internship opportunities and essential skills and networks. The goal is to offer guidance and tips on successfully applying for internships, engaging in a conversation with Emma Walters and Amanda Merck.
 
 ## Before we Meet
 
+Take some time before the seminar to outline 2-3 questions or discussion topics related to the internship application process and how to effectively build skills during the internship to engage with the guest speakers.
+
 ## After we Meet
+
+Work together to compile a repository of resources specifically focused on thoughts shared during the session, tips for successful applications, and strategies for maximizing the learning experience during internships.
 
 ## Additional Resources

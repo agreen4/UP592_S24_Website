@@ -6,10 +6,14 @@ editor: source
 ---
 ## Session Overview
 
-More information forthcoming from DSUP.
+This session provides DSUP students with an opportunity to learn about the industry job opportunities, industry job market's dynamics, comparing the pros and cons relative to academia, and providing strategies for success in future careers for those interested in pursuing industry path.
 
 ## Before we Meet
 
+Take some time before the seminar to outline 2-3 questions or discussion topics related to the evolving trends in the industry, potential challenges and advantages, and practical steps for navigating a successful career transition, to engage with the guest speaker.
+
 ## After we Meet
+
+Work together to compile a repository of resources specifically focused on thoughts shared during the session, tips for job searches, and strategies for professional growth.
 
 ## Additional Resources

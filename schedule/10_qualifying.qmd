@@ -6,10 +6,14 @@ editor: source
 ---
 ## Session Overview
 
-More information forthcoming from DSUP.
+This session is the second of the two sessions that pertain to achieving the milestones towards becoming a PhD candidate. This particular session will provide students the opportunity to discuss the requirements of, and the process of preparing for the qualifying exam and/or qualifying research paper. The session will be led by faculty members who have supervised prior PhD students. Faculty panelists TBD.
 
 ## Before we Meet
 
+Come prepared with questions! Please spend some time before the seminar to outline 1-2 questions related to the qualifying exam/qualifying research paper.
+
 ## After we Meet
+
+Work together to compile a DSUP repository of milestones related resources that synthesizes advice and tips shared during the session. The repository can become an additional resource that can be passed on from cohort to cohort.
 
 ## Additional Resources
