@@ -1,0 +1,34 @@
+---
+title: "UP 592: Ph.D Seminar"
+subtitle: "Week 2: The Annotated Bibliography"
+footer: up592s24.netlify.app
+format: 
+  revealjs:
+    theme: [default, custom.scss]
+    logo: images/BlockI-Logo.png
+    chalkboard: true
+    smaller: true
+    scrollable: false
+    incremental: true
+    preview-links: true
+    slide-number: true
+---
+
+## Literature - What is it Good For?
+
+## The Role of Annotated Bibliographies - In General
+
+## The Role of Annotated Bibliographies - Planning at Illinois
+
+**Annotated Bibliographies:** You are required to develop two annotated bibliographies that demonstrate mastery of the existing schools of thought and prominent conversations in two distinct bodies of literature of critical importance to your doctoral research interest. The purpose of these Annotated Bibliographies is to identify the gaps and research opportunities in your field of interest.
+
+## Strategy
+
+The annotated bibliography should be the *tip of the iceberg* to a much larger body of literature you have read.
+
+- **Brute Force:** Your *job* as an early Ph.D. student is to read widely. Identify primary sources, read them, and then read the sources they draw on for critical citations.
+
+- **Refined:** As you make decisions about your academic identity, there are specific bodies of literature that ground that identity. You'll read deeply in these areas.
+
+- **Tactical:** 
+## Questions

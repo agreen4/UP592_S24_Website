@@ -6,11 +6,13 @@ editor: source
 ---
 ## Session Overview
 
-This session provides DSUP students with an opportunity to explore the internship application process, aiming to familiarize students with internship opportunities and essential skills and networks. The goal is to offer guidance and tips on successfully applying for internships, engaging in a conversation with Emma Walters and Amanda Merck.
+This session provides DSUP students with an opportunity to explore the internship application process, aiming to familiarize students with internship opportunities and essential skills and networks. The goal is to offer guidance and tips on successfully applying for internships, engaging in a conversation with 3rd year Ph.D. student [Emma Walters](https://faa.illinois.edu/about-us/news/graduate-student-spotlight-emma-walters/).
 
 ## Before we Meet
 
-Take some time before the seminar to outline 2-3 questions or discussion topics related to the internship application process and how to effectively build skills during the internship to engage with the guest speakers.
+Complete and submit your [Session 4 work](04_scoping.qmd) (upload to Box).
+
+Take some time before the seminar to outline 2-3 questions or discussion topics related to the internship application process and how to effectively build skills during the internship to engage with Emma.
 
 ## After we Meet
 
